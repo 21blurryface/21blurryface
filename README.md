@@ -13,12 +13,14 @@
 </picture>
 
 
-I'm Harold, recent sde intern at Carfax.
+I'm Harold, a graduate student at Western University.
 
--   :hammer_and_pick: Java / Python / Micronaut
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/21blurryface/21blurryface/discussions/new/choose)!
+-   ⚡ Python / Java 
+-   🍻 Recently a software developer intern at Carfax
 -   🤔  I’m currently learning AWS cloud
--   👯  I’m looking for NG roles
+-   :thought_balloon: Ask me anything at [Discussions](https://github.com/21blurryface/21blurryface/discussions/new/choose)!
+-   👯  I’m looking for New Grad roles
+-   🏃 Skiing / Kayak / Badminton / Pickleball / Tennis / Cycling 
 -   ...
 ---
 
