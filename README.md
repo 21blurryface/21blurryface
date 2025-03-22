@@ -15,7 +15,7 @@
 
 I'm Harold, Master student at uwo.
 
--   :hammer_and_pick: Java / Python / 
+-   :hammer_and_pick: Java / Python / Micronaut
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/21blurryface/21blurryface/discussions/new/choose)!
 -   🤔  I’m currently learning AWS cloud
 -   👯  I’m looking for NG roles
